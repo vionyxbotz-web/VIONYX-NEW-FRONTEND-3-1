@@ -1,3 +1,0 @@
-{
-  "rewrites": [{ "source": "/((?!css/|js/|favicon/|config.js).*)", "destination": "/index.html" }]
-}
